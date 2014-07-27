@@ -3,3 +3,5 @@
 3. Added a file Licence to folder but not for the packaging stage
    This will give us a a message saying licence is ignored and TODO will be updated
    with corrected changes.
+4. Learning to Ignore files completely from the project
+   For example all the Files in tmp/* since we don't want git to check for them anyhow
