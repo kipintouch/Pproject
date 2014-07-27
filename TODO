@@ -1,1 +1,5 @@
 1. Learn to git commit
+2. Learning to ignore files in our commint
+3. Added a file Licence to folder but not for the packaging stage
+   This will give us a a message saying licence is ignored and TODO will be updated
+   with corrected changes.
